@@ -1,0 +1,11 @@
+Step,Infected Count,Infection Rate,Recovery Rate,Total People,Initial Infected,Num Clusters,Intra-cluster Connections,Inter-cluster Connections,Total Steps,Measure Interval,Method
+5,4,0.04,0.08,20,5,2,20,10,50,5,classical
+10,3,0.04,0.08,20,5,2,20,10,50,5,classical
+15,5,0.04,0.08,20,5,2,20,10,50,5,classical
+20,6,0.04,0.08,20,5,2,20,10,50,5,classical
+25,7,0.04,0.08,20,5,2,20,10,50,5,classical
+30,9,0.04,0.08,20,5,2,20,10,50,5,classical
+35,12,0.04,0.08,20,5,2,20,10,50,5,classical
+40,13,0.04,0.08,20,5,2,20,10,50,5,classical
+45,12,0.04,0.08,20,5,2,20,10,50,5,classical
+50,8,0.04,0.08,20,5,2,20,10,50,5,classical

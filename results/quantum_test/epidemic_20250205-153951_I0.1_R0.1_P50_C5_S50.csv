@@ -1,0 +1,11 @@
+Step,Infected Count,Infection Rate,Recovery Rate,Total People,Initial Infected,Num Clusters,Intra-cluster Connections,Inter-cluster Connections,Total Steps,Measure Interval,Method
+5,16,0.1,0.1,50,10,5,10,50,50,5,quantum
+10,19,0.1,0.1,50,10,5,10,50,50,5,quantum
+15,24,0.1,0.1,50,10,5,10,50,50,5,quantum
+20,27,0.1,0.1,50,10,5,10,50,50,5,quantum
+25,29,0.1,0.1,50,10,5,10,50,50,5,quantum
+30,35,0.1,0.1,50,10,5,10,50,50,5,quantum
+35,40,0.1,0.1,50,10,5,10,50,50,5,quantum
+40,44,0.1,0.1,50,10,5,10,50,50,5,quantum
+45,46,0.1,0.1,50,10,5,10,50,50,5,quantum
+50,45,0.1,0.1,50,10,5,10,50,50,5,quantum
